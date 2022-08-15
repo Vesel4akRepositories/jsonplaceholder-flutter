@@ -1,7 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:freezed_annotation/freezed_annotation.dart';
 import 'package:injectable/injectable.dart';
-import 'package:jsonplaceholder_bloc/core/error/exceptions.dart';
 import 'package:jsonplaceholder_bloc/core/error/failures.dart';
 import 'package:jsonplaceholder_bloc/feature/home/domain/entities/user.dart';
 

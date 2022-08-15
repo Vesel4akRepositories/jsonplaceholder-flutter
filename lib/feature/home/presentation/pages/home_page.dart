@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:jsonplaceholder_bloc/core/utils/routes.dart';
 import 'package:jsonplaceholder_bloc/feature/home/presentation/manager/home_bloc.dart';
-import 'package:jsonplaceholder_bloc/feature/profile/profile/presentation/pages/profile_page.dart';
+import 'package:jsonplaceholder_bloc/feature/profile/presentation/pages/profile_page.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
